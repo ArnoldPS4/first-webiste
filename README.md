@@ -1,2 +1,2 @@
-# firt-webiste
+# first-webiste
 GitHub repository practice

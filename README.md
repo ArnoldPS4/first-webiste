@@ -1,2 +1,2 @@
-# first-webiste
+# first-website
 GitHub repository practice
